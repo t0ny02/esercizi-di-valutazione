@@ -1,0 +1,42 @@
+<video_games>
+  <ubisoft>
+    <titolo>rainbow six siege</titolo>
+    <pubblicazione>1 dicembre 2015</pubblicazione>
+  </ubisoft>
+  <activision>
+    <titolo>call of duty modern warfare</titolo>
+    <pubblicazione>27 ottobre 2022</pubblicazione>
+  </activision>
+ <nintendo>
+    <titolo>super mario bros</titolo>
+    <pubblicazione>13 settembre 1985</pubblicazione>
+ </nintendo>
+  <riot_games>
+    <titolo>legue of legends</titolo>
+    <pubblicazione>27 ottobre 2009</pubblicazione>
+  </riot_games>
+  <ea>
+    <titolo>fifa 22</titolo>
+    <pubblicazione>27 settembre 2021</pubblicazione>
+  </ea>
+  <polyphony_digital>
+    <titolo>gran turismo 7</titolo>
+    <pubblicazione>4 marzo 2022</pubblicazione>
+  </polyphony_digital>
+  <bethesda_softworks>
+    <titolo>fallout 4</titolo>
+    <pubblicazione>10 novembre 2015</pubblicazione>
+  </bethesda_softworks>
+  <343_industries>
+    <titolo>halo infinite</titolo>
+    <pubblicazione>15 novembre 2021</pubblicazione>
+  </343_industries>
+  <guerrilla_games>
+    <titolo>horizon forbidden west</titolo>
+    <pubblicazione>18 febbraio 2022</pubblicazione>
+  </guerrilla_games>
+  <santa_monica_studio>
+    <titolo>god of war ragnarok</titolo>
+    <pubblicazione>9 novembre 2022</pubblicazione>
+  </santa_monica_studio>
+</video_games>

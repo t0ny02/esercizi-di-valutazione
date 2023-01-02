@@ -1,0 +1,70 @@
+{
+  "auto" : { "marca":"ford",
+    "modello":"mustang",
+    "anno": 2020,
+    "cavalli": 460,
+    "colore": "grigio" },
+  {
+    "auto" : { "marca":"maserati",
+      "modello":"ghibli",
+      "anno": 2020,
+      "cavalli": 330,
+      "colore": "rosso" },
+    {
+      "auto" : { "marca":"volkswagen",
+       "modello":"passat",
+        "anno": 2020,
+        "cavalli": 150,
+        "colore": "nero" },
+        {
+          "auto" : { "marca":"ferrari",
+           "modello":"purosangue",
+           "anno": 2020,
+           "cavalli": 725,
+           "colore": "bianco" },
+            {
+              "auto" : { "marca":"audi",
+                "modello":"A5",
+                "anno": 2020,
+                "cavalli": 180,
+                "colore": "grigio_metallizzato" },
+                {
+                  "auto" : { "marca":"bmw",
+                    "modello":"serie 2 gran_coupe",
+                    "anno": 2020,
+                    "cavalli": 180,
+                    "colore": "azzurro_metallizzato" },
+                    {
+                      "auto" : { "marca":"lamborghini",
+                        "modello":"urus",
+                        "anno": 2020,
+                        "cavalli": 650,
+                        "colore": "bianco_perla" },
+                        {
+                          "auto" : { "marca":"mercedes",
+                            "modello":"maybach",
+                            "anno": 2020,
+                            "cavalli": 558,
+                            "colore": "grigio_chiaro" },
+                            {
+                              "auto" : { "marca":"mercedes",
+                                "modello":"eqs",
+                                "anno": 2020,
+                                "cavalli": 340,
+                                "colore": "blu_mezzanotte" },
+                                {
+                                  "auto" : { "marca":"porsche",
+                                    "modello":"macan",
+                                    "anno": 2020,
+                                    "cavalli": 441,
+                                    "colore": "verde_smeraldo" },
+
+                      {  "vincitori auto dell'anno" : [
+                        {"porsche":"macan"},
+                        {"ferrari":"purosangue"},
+                        {"ford":"mustang"}
+
+                       ] }
+
+
+  
